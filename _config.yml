@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: PVN Cybersecurity
+title: Pavan Pavithran
 
 # Your name to show in the footer
 author: Pavan Pavithran
@@ -49,9 +49,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "pavanpavithran44@gmail.com"
+  email: "pavanpavithran@icloud.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: DrPaps
+  github: pavanpavithran
   tryhackme: pavanp44
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -100,7 +100,7 @@ share-links-active:
 #url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
